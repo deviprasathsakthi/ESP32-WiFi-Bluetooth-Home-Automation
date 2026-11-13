@@ -1,4 +1,4 @@
-ESP32-Based Wi-Fi and Bluetooth Home Automation System
+koESP32-Based Wi-Fi and Bluetooth Home Automation System
 
 Project Overview
 
@@ -59,3 +59,7 @@ Developed an ESP32-based home automation system integrating Bluetooth, Wi-Fi, Bl
 ---
 
 Project Domain: Embedded Systems | Internet of Things (IoT) | Home Automation
+
+## Project Report
+
+[View Full ESP32 Home Automation Project Report](ESP32_Home_Automation_Project_Report_Professional.docx)
