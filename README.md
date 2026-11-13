@@ -62,4 +62,4 @@ Project Domain: Embedded Systems | Internet of Things (IoT) | Home Automation
 
 ## Project Report
 
-[View Full ESP32 Home Automation Project Report](ESP32_Home_Automation_Project_Report_Professional.docx)
+[View Full ESP32 Home Automation Project Report](ESP32_Home_Automation_Project_Report_Professional.pdf)
