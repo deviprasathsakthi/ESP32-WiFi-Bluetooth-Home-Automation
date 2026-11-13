@@ -1,4 +1,4 @@
-koESP32-Based Wi-Fi and Bluetooth Home Automation System
+ESP32-Based Wi-Fi and Bluetooth Home Automation System
 
 Project Overview
 
